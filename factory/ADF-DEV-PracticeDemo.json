@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DEV-PracticeDemo",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e1d9ca1-9f76-4a2b-a293-d8bf5e31a4ed",
+		"tenantId": "1b36cbeb-012a-4cdc-ae0c-43d356c62ad5"
+	}
+}
